@@ -5,7 +5,9 @@
 ![Animação: automação e operações, ferramentas para problemas reais e aprendizado contínuo](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=7C6FF0&center=true&vCenter=true&width=700&height=40&lines=Automacao+e+operacoes;Ferramentas+para+problemas+reais;Aprendizado+continuo)
 
 Atuo entre tecnologia e operação, criando automações e ferramentas que tornam rotinas mais organizadas, confiáveis e fáceis de acompanhar.
-
+  <a href="https://github.com/PokeAPI/sprites" title="Sprite animada do Treecko via PokeAPI Sprites">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/252.gif" width="120" alt="Treecko animado" />
+  </a>
 </div>
 
 ## 🛠️ Minhas frentes de atuação
@@ -39,11 +41,5 @@ Busco soluções incrementais, observáveis e fáceis de manter, com cuidado com
       <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/?size=100&id=Lr4D9lVxxZdR&format=png&color=FFFFFF" />
       <img src="https://img.icons8.com/?size=100&id=Lr4D9lVxxZdR&format=png&color=000000" width="40" alt="Instagram" />
     </picture>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/PokeAPI/sprites" title="Sprite animada do Treecko via PokeAPI Sprites">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/252.gif" width="120" alt="Treecko animado" />
   </a>
 </div>
