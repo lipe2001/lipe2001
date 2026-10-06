@@ -4,15 +4,9 @@
 
 ### Automação · Operações · Tecnologia
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/252.gif" width="100" /></td>
-    <td align="center"><sub>→</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/253.gif" width="100" /></td>
-    <td align="center"><sub>→</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/254.gif" width="100" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/animacao-programando.gif" width="320" alt="Animação em pixel art de uma pessoa programando, acompanhada por ícones de Python, JavaScript, Linux e banco de dados" />
+</p>
 
 </div>
 
