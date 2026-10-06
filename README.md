@@ -25,6 +25,23 @@ Atuo entre tecnologia e operação, criando automações e ferramentas que torna
 
 Busco soluções incrementais, observáveis e fáceis de manter, com cuidado com os dados e validação antes de mudanças importantes.
 
+## 🔗 Me encontre
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/felipe-nascimento-ba12b8228/" aria-label="LinkedIn">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/?size=100&id=X8g2OZMx4ET5&format=png&color=FFFFFF" />
+      <img src="https://img.icons8.com/?size=100&id=X8g2OZMx4ET5&format=png&color=000000" width="40" alt="LinkedIn" />
+    </picture>
+  </a>
+  <a href="https://www.instagram.com/lipe.nc/" aria-label="Instagram">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/?size=100&id=Lr4D9lVxxZdR&format=png&color=FFFFFF" />
+      <img src="https://img.icons8.com/?size=100&id=Lr4D9lVxxZdR&format=png&color=000000" width="40" alt="Instagram" />
+    </picture>
+  </a>
+</div>
+
 <div align="center">
   <a href="https://github.com/PokeAPI/sprites" title="Sprite animada do Treecko via PokeAPI Sprites">
     <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/252.gif" width="120" alt="Treecko animado" />
