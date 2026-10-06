@@ -16,7 +16,7 @@
 
 </div>
 
-## 🛠️ Minhas frentes de atuação
+##  Minhas frentes de atuação
 
 - **Automação e integrações:** conecto sistemas, APIs, planilhas, bots e fluxos de trabalho para reduzir tarefas manuais.
 - **Operações e infraestrutura:** trabalho com monitoramento de redes e serviços, administração de servidores e automação de rotinas.
@@ -29,9 +29,6 @@
 
 `Python` · `JavaScript` · `SQL` · `n8n` · `FastAPI` · `Docker` · `Linux` · `Telegram` · `Google Sheets`
 
-## 💡 Como gosto de trabalhar
-
-Busco soluções incrementais, observáveis e fáceis de manter, com cuidado com os dados e validação antes de mudanças importantes.
 
 ## 🔗 Me encontre
 
