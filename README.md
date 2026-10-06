@@ -2,18 +2,10 @@
 
 # 👋 Olá, eu sou Felipe Nascimento
 
-<p align="right">
-  <a href="https://github.com/PokeAPI/sprites" title="Sceptile via PokeAPI Sprites">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/254.gif" width="112" alt="Sceptile" />
-  </a>
-</p>
 <p align="center">
   <a href="https://github.com/PokeAPI/sprites" title="Grovyle via PokeAPI Sprites">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/254.gif" width="112" alt="Sceptile" />
     <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/253.gif" width="112" alt="Grovyle" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/PokeAPI/sprites" title="Treecko via PokeAPI Sprites">
     <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/252.gif" width="112" alt="Treecko" />
   </a>
 </p>
