@@ -2,9 +2,17 @@
 
 # 👋 Olá, eu sou Felipe Nascimento
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/254.gif" width="112" alt="Sceptile" />
-</p>
+### Automação · Operações · Tecnologia
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/252.gif" width="80" alt="Treecko" /><br /><sub>Treecko</sub></td>
+    <td align="center"><sub>→</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/253.gif" width="80" alt="Grovyle" /><br /><sub>Grovyle</sub></td>
+    <td align="center"><sub>→</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/254.gif" width="80" alt="Sceptile" /><br /><sub>Sceptile</sub></td>
+  </tr>
+</table>
 
 </div>
 
