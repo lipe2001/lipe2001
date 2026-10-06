@@ -2,11 +2,11 @@
 
 # 👋 Olá, eu sou Felipe Nascimento
 
-### Automação · Operações · Tecnologia
-
 <p align="center">
-  <img src="./assets/animacao-programando.gif" width="320" alt="Animação em pixel art de uma pessoa programando, acompanhada por ícones de Python, JavaScript, Linux e banco de dados" />
+  <img src="./assets/animacao-programando.gif" width="420" alt="Animação em pixel art de uma pessoa programando, acompanhada por ícones de Python, JavaScript, Linux e banco de dados" />
 </p>
+
+### Automação · Operações · Tecnologia
 
 </div>
 
