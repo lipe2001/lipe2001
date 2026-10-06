@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Felipe Nascimento
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=7C6FF0&center=true&vCenter=true&width=700&height=40&lines=Automacao+e+integracoes;Operacoes+e+infraestrutura;Dados+e+IA+aplicada" alt="Automação e integrações, operações e infraestrutura, dados e IA aplicada" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=700&height=40&lines=Automacao+e+operacoes;Ferramentas+para+problemas+reais;Aprendizado+continuo" alt="Automação e operações, ferramentas para problemas reais e aprendizado contínuo" />
 
 Atuo entre tecnologia e operação, criando automações e ferramentas que tornam rotinas mais organizadas, confiáveis e fáceis de acompanhar.
 
