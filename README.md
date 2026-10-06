@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Felipe Nascimento
 
-**Automação · operações · desenvolvimento de ferramentas**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=7C6FF0&center=true&vCenter=true&width=700&height=40&lines=Automacao+e+operacoes;Ferramentas+para+problemas+reais;Aprendizado+continuo" alt="Automação e operações, ferramentas para problemas reais, aprendizado contínuo" />
 
 Transformo necessidades do dia a dia em aplicações e automações úteis para organizar processos de operação.
 
@@ -22,6 +22,12 @@ Transformo necessidades do dia a dia em aplicações e automações úteis para 
 ## 🧰 Tecnologias nos projetos
 
 `Python` · `FastAPI` · `JavaScript` · `HTML/CSS` · `PostgreSQL` · `Docker` · `Telegram`
+
+<div align="center">
+  <a href="https://github.com/PokeAPI/sprites" title="Sprite animada do Treecko via PokeAPI Sprites">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/252.gif" width="120" alt="Treecko animado" />
+  </a>
+</div>
 
 ## 🔗 Conecte-se
 
