@@ -1,9 +1,33 @@
 <div align="center">
 
 # 👋 Olá, eu sou Felipe Nascimento
-  <a href="https://github.com/PokeAPI/sprites" title="Sprite animada do Treecko via PokeAPI Sprites">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/252.gif" width="120" alt="Treecko animado" />
+
+<p align="right">
+  <a href="https://github.com/PokeAPI/sprites" title="Sceptile via PokeAPI Sprites">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/254.gif" width="112" alt="Sceptile" />
   </a>
+</p>
+<p align="center">
+  <a href="https://github.com/PokeAPI/sprites" title="Grovyle via PokeAPI Sprites">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/253.gif" width="112" alt="Grovyle" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://github.com/PokeAPI/sprites" title="Treecko via PokeAPI Sprites">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/252.gif" width="112" alt="Treecko" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/252.gif" width="52" alt="Treecko" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/252.gif" width="52" alt="Treecko" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/252.gif" width="52" alt="Treecko" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/252.gif" width="52" alt="Treecko" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/252.gif" width="52" alt="Treecko" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/252.gif" width="52" alt="Treecko" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/252.gif" width="52" alt="Treecko" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/252.gif" width="52" alt="Treecko" />
+</p>
 </div>
 
 ## 🛠️ Minhas frentes de atuação
